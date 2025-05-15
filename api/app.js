@@ -20,7 +20,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use((res, req, next) => {
-  console.log("ben app js içinde tanımlanan middleware'im test test test:::");
+  console.log("ben app js içinde tanımlanan middleware'im test t:::");
   next();
 });
 
