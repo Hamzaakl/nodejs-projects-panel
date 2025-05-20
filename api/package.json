@@ -14,5 +14,10 @@
     "http-errors": "~1.6.3",
     "mongoose": "^8.15.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
